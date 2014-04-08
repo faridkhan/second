@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:gap="http://phonegap.com/ns/1.0"
+    id="com.ministry.offf.justice"
+    version="1.0.1"
+    versionCode="1"
+    xmlns="http://www.w3.org/ns/widgets" >
+
+    <name>اللقاء الدوري 9-10 أبريل 2014</name>
+
+    <description>
+        Ministry of Justice Kuwait- اللقاء الدوري 9-10 أبريل 2014
+    </description>
+
+    <author email="mail@rilah.com" href="https://rilah.com" >
+        riLah Web and Apps
+    </author>
+    <preference name="show-splash-screen-spinner" value="true" />
+	<gap:plugin name="com.phonegap.plugins.childbrowser" />
+    
+    
+    <preference name="fullscreen" value="true" />
+
+
+    <icon src="images/icon-72.png" gap:platform="ios" width="72" height="72" />
+    <icon src="images/icon-57.png" gap:platform="ios" width="57" height="57" />
+
+	
+   
+	
+</widget>
